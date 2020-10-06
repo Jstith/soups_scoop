@@ -3,6 +3,7 @@ Email bot that simply gives you weather and news.
 
 
 ### Files
+### Code
 * **mail.py**
     * This script is manager of the project. It determines who gets an email and when.
 * **people.py**
