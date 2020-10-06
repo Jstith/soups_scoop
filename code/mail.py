@@ -59,7 +59,7 @@ while True:
             server.quit()
             print("Email sent to: " + person.getName())
         # Delay for more than an hour to ensure we don't send too many emails
-        sleep(3700)
+        sleep(3600)
     else:
         # If its not time to send an email then we should go ahead and wait five minuted to ensure we don't wreck the cpu
         sleep(300)
