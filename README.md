@@ -20,6 +20,6 @@ Email bot that simply gives you weather and news.
      * Must be GMAIL account that allows less secure apps.
     
 ## Looking ahead
-At the moment the main changes I hope to make is in the organization of the code. In addition, I hope to add a little more personality into the emails. Hopefully, I will be able to personalize the news data but that looks like it will be a little far off. Finally, I might add some css to the email format to make it a little more interesting.
+At the moment the main changes I hope to make are in the organization of the code. Additionally, I hope to add a little more personality into the emails. Hopefully, I will be able to personalize the news data but that's still a littly ways out. Finally, I might add some css to the email format to make it a little more interesting.
 
 #### Please don't just roast the code. I'd be happy to have a discussion about what I did if you want to shoot me an email at: `information.myevents@gmail.com`
